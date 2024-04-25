@@ -1,0 +1,32 @@
+.navbar
+{
+    background-image: linear-gradient(to left bottom, #86cd14, #8ed414, #97dc13, #9fe313, #a8eb12);    overflow: hidden;
+}
+
+.cart-icon
+{
+    width: 35px;
+}
+.brand-icon
+{
+    width: 160px;
+}
+.nav-link
+{
+    justify-content: space-around;
+    margin-left: 30px;
+    transition: background-color 0.7s ease;
+    border-radius: 10px;
+}
+.nav-texts
+{
+    color: #264F0B;
+}
+.nav-link:hover{
+    background-color: #FC6C22;
+}
+.nav-link:active
+{
+    background-color: #FC6C22;
+
+}
